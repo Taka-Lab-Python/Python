@@ -12,6 +12,5 @@ def use_module():
   import seaborn as sns
   import pandas as pd
   from matplotlib import pyplot as plt
-  !pip install japanize-matplotlib
-  import japanize_matplotlib
+
 
