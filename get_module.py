@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1zlEvHJTkZC1YXMQ0dk2Q-Skj-QD0VCvH
 """
 
-def use_module():
+def get_module():
   import numpy as np
   import seaborn as sns
   import pandas as pd
   from matplotlib import pyplot as plt
 
-use_module()
+get_module()
 
